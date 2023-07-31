@@ -31,7 +31,7 @@ SECRET_KEY = env('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['onrender.com','127.0.0.1','render.com']
+ALLOWED_HOSTS = ['iclone-vok0.onrender.com','127.0.0.1']
 
 
 # Application definition
