@@ -3,3 +3,4 @@ Django
 gunicorn
 Pillow
 psycopg2
+django-environ
